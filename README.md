@@ -7,9 +7,7 @@
 
 ###
 
-<br clear="both">
-
-<img align="left" height="200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+<img align="left" height="150" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 
 ###
 
@@ -57,8 +55,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/arshan55/arshan55/output/snake.svg" alt="Snake animation" />
 
